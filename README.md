@@ -74,6 +74,7 @@ It contains 4 different classes and 1 interface:
 5. TodoList
 
 
+
 1. Display class
 
 Class Display, displays a todolist in the terminal
