@@ -1,10 +1,10 @@
 # TerminalToDoApp
 Designed a program that would accept input from a command line regarding to-dos a user might want to add, complete, edit or view (including filtering options)
 
-![ToDo](https://media.github.ccs.neu.edu/user/8933/files/bd06e880-1246-11ec-8a50-c1b3e44948f8)
-
 Short Description of the TODO Application:
 This program is building a command line TODO application. The system will allow the user to add and track the status of their TODOs by due date, category, priority, and status(complete/incomplete). The application stores all TODOs in a CSV file. The CSV has 6 columns named id, text, completed, due, priority, and category.
+
+![ToDo](https://media.github.ccs.neu.edu/user/8933/files/bd06e880-1246-11ec-8a50-c1b3e44948f8)
 
 Todo data structure
 A Todo consists of the following information:
