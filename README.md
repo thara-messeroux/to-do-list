@@ -73,30 +73,37 @@ It contains 4 different classes and 1 interface:
 4. Todo
 5. TodoList
 
+
 1. Display class
+
 Class Display, displays a todolist in the terminal
 
 2. DisplayController class
+
 Class DisplayController, display the todolist based of the filter and sorting requirements given
 
 3. ITodoList  Interface
+
 Interface ITodoList contains methods that should be represented in the todolist class
 
 4. Todo class
+
 Class Todo, representing an individual task todo including its information
 It has a collection of attributes such as:
- 1. Description
- 2. isCompleted
- 3. dueDate
- 4. priority
- 5. category
- 6. Id
- 7. Priorities
- 8. Date Time Formatter
+  1. Description
+  2. isCompleted
+  3. dueDate
+  4. priority
+  5. category
+  6. Id
+  7. Priorities
+  8. Date Time Formatter
 
 5. TodoList class
+
 Class TodoList represents a list of todos.  It’s an array list of todos, todo objects
 From there you can:
+
 1. Create a todoList
 2. Get a todoList
 3. Add a todo item
